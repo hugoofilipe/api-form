@@ -44,8 +44,13 @@ You need to have installed python 3.6 or higher, and a mysql server.
 * Unit tests with pytest
 * Monitoring  api's
 
+## Tools to test the api 
+* Postman - https://www.postman.com/
+* Advanced REST client (nunca testei) - https://install.advancedrestclient.com/install
+* Insomnia (nunca testei) - https://insomnia.rest/download
+
 ## Sources of information
-* Examples of flask api's: https://blog.devgenius.io/cors-a621802feb49 
+* [Examples of flask apis] https://blog.devgenius.io/cors-a621802feb49 
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [Docker](https://docs.docker.com/)
 * [Docker-compose](https://docs.docker.com/compose/)
